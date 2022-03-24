@@ -3,7 +3,6 @@ import unittest
 def add(x,y):
     return x+y
 
-
 class MyApp2(unittest.TestCase):
 
     def test_case1(self):
